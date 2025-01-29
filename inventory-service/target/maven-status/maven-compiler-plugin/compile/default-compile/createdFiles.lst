@@ -1,0 +1,6 @@
+com\sondevnguyen\inventoryservice\repository\InventoryRepository.class
+com\sondevnguyen\inventoryservice\InventoryServiceApplication.class
+com\sondevnguyen\inventoryservice\model\Inventory.class
+com\sondevnguyen\inventoryservice\service\InventoryService.class
+com\sondevnguyen\inventoryservice\controller\InventoryController.class
+com\sondevnguyen\inventoryservice\service\impl\InventoryServiceImpl.class
