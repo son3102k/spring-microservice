@@ -1,0 +1,53 @@
+# Maven
+pom.xml
+pom.xml.*
+**/target/
+**/out/
+
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# VS Code
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# Environment Variables
+.env
+application-*.yml
+application-*.properties
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# Compiled class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Database files
+*.h2.db
+*.mv.db
+
+# OS-specific files
+.DS_Store
+Thumbs.db

@@ -1,9 +1,0 @@
-D:\ideaProjects\microservices-new\order-service\src\main\java\com\sondevnguyen\orderservice\controller\OrderController.java
-D:\ideaProjects\microservices-new\order-service\src\main\java\com\sondevnguyen\orderservice\dto\OrderLineItemsDto.java
-D:\ideaProjects\microservices-new\order-service\src\main\java\com\sondevnguyen\orderservice\dto\OrderRequest.java
-D:\ideaProjects\microservices-new\order-service\src\main\java\com\sondevnguyen\orderservice\model\Order.java
-D:\ideaProjects\microservices-new\order-service\src\main\java\com\sondevnguyen\orderservice\model\OrderLineItems.java
-D:\ideaProjects\microservices-new\order-service\src\main\java\com\sondevnguyen\orderservice\OrderServiceApplication.java
-D:\ideaProjects\microservices-new\order-service\src\main\java\com\sondevnguyen\orderservice\repository\OrderRepository.java
-D:\ideaProjects\microservices-new\order-service\src\main\java\com\sondevnguyen\orderservice\service\impl\OrderServiceImpl.java
-D:\ideaProjects\microservices-new\order-service\src\main\java\com\sondevnguyen\orderservice\service\OrderService.java

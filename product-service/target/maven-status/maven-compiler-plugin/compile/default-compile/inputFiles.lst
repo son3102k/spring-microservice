@@ -1,8 +1,0 @@
-D:\ideaProjects\microservices-new\product-service\src\main\java\com\sondevnguyen\springmicroservices\controller\ProductController.java
-D:\ideaProjects\microservices-new\product-service\src\main\java\com\sondevnguyen\springmicroservices\dto\ProductRequest.java
-D:\ideaProjects\microservices-new\product-service\src\main\java\com\sondevnguyen\springmicroservices\dto\ProductResponse.java
-D:\ideaProjects\microservices-new\product-service\src\main\java\com\sondevnguyen\springmicroservices\model\Product.java
-D:\ideaProjects\microservices-new\product-service\src\main\java\com\sondevnguyen\springmicroservices\repository\ProductRepository.java
-D:\ideaProjects\microservices-new\product-service\src\main\java\com\sondevnguyen\springmicroservices\service\impl\ProductServiceImpl.java
-D:\ideaProjects\microservices-new\product-service\src\main\java\com\sondevnguyen\springmicroservices\service\ProductService.java
-D:\ideaProjects\microservices-new\product-service\src\main\java\com\sondevnguyen\springmicroservices\SpringMicroservicesApplication.java
